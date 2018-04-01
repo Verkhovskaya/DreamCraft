@@ -1,0 +1,5 @@
+LOG
+Got a file from 902
+Got dimensions from 902. They are: [0, 0, 0, 10, 10, 10]
+Got a file from 712
+Got dimensions from 712. They are: [0, 0, 0, 10, 10, 10]

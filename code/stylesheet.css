@@ -1,0 +1,63 @@
+a {
+	text-decoration: none;
+	background-color: pink;
+}
+
+h1 {
+	font-size: 2.7em; 
+	text-decoration: none;
+	font-weight: 200;
+	color: rgb(89,89,89);
+}
+
+h2 {
+	font-size: 1em;
+	text-decoration: none;
+	color: rgb(89,89,89);
+	font-weight: 200;
+}
+
+
+body {
+	font-family: "Verdana";
+	font-weight: 200;
+	color: rgb(89,89,89);
+	height: 100%;
+	background-image: url("/background_image");
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+textarea {
+	font-size: 14pt;
+}
+
+html {
+	height: 100%;
+}
+
+#div1 {
+	text-align: center;
+	width: 80%;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	margin: 0 auto;
+	padding: 1em;
+}
+
+#div2{
+	text-align: center;
+	width: 80%;
+	margin: 3em auto !important;
+	float: none !important;
+	background-color: white;
+	border-color: gba(32, 161, 233, 1);
+	border-width: thin;
+	padding: 1em;
+	text-align: center;
+	height: 25em;
+}
+
+img {
+	width: 100%;
+}
