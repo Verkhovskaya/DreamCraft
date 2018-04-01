@@ -2,4 +2,4 @@
 
 Hackathon Note:
 
-Like most hackathon projects, the file organization of the code is attrocious. You're looking for pymclevel/server.py and pymclevel/main.py. 
+As with most hackathon projects, the file organization of the code is attrocious. You're looking for code/server.py and code/main.py. 
